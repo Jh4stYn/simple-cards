@@ -1,0 +1,22 @@
+.card {
+    width: 280px;
+    border:3px solid #fff;
+    border-radius: 10px;
+}
+
+.card__header {
+    background-color: #535050e1;
+    padding: 15px;
+    border-radius:7px 7px 0 0;
+    border-bottom: 3px solid #13121271;
+}
+
+.card__title {
+    background-color: #00000067;
+    padding: 15px;
+}
+
+.card__text {
+    background-color: #00000067;
+    padding: 0 15px 25px;
+}
